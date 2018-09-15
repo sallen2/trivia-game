@@ -3,7 +3,18 @@ body{
 }
 
 .bk{
- opacity: .7;
- background-color: #17880c;
- height: 700px;
+    opacity: .7;
+    background-color: #17880c;
+    height: 700px;
+}
+
+.buttonBlock{
+    display: block;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
 }

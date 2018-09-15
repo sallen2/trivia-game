@@ -20,6 +20,7 @@ function setQuestion(arr){
     question.text(arr[questionNum].question);
     for(var i =0; i < arr[questionNum].answer.length; i++){
         let answer = $('<button>');
+        answer.addClass("buttonBlock center")
         answer.attr('correct', arr[questionNum].correctNum[i]);
         $('.appendHere').append(answer.text(arr[questionNum].answer[i]));
     }
