@@ -57,7 +57,6 @@ function timerCountDown(){
     }, 1000)
 }
 function nextQuestion(){
-    // change back later to 30
         time = 30;
         questionNum++
         $('.appendHere').show();
@@ -144,10 +143,6 @@ function done(done){
     }
 }
 function start(){
-    let startButton = $('<button>');
-    startButton.addClass('center removeStartButton startButton');
-    startButton.text('Start')
-    $('.appendHere').append(startButton);
     $('.startButton').on('click',function(){
         $('.countDown').show()
         $('.removeStartButton').remove();
