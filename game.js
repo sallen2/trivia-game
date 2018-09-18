@@ -185,7 +185,7 @@ function done(done){
 }
 function start(){
     $('.startButton').on('click',function(){
-        var audio = new Audio('/audio/Knxwledge - KNX anthologhy TAPE 1.mp3');
+        var audio = new Audio('audio/Knxwledge - KNX anthologhy TAPE 1.mp3');
         audio.play();
         $('.countDown').show()
         $('.removeStartButton').remove();

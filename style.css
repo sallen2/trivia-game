@@ -3,14 +3,14 @@ html.sr .load-hidden {
 }
 
 body{
-    background-image: url("/images/31276156-rap-music-hip-hop-graffiti-seamless-background.jpg");
+    background-image: url("images/31276156-rap-music-hip-hop-graffiti-seamless-background.jpg");
     font-family: 'Indie Flower', cursive;
     color: rgb(211, 13, 13);
     font-size: 24px
 }
 
 .bk{
-    background-image: url('/images/1_rW0xM5axMw-sVjaDWC4wqQ.jpeg');
+    background-image: url('images/1_rW0xM5axMw-sVjaDWC4wqQ.jpeg');
     background-size: 1300px 700px;
     background-color: #17880c;
     height: 700px;
