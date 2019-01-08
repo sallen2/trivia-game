@@ -4,7 +4,7 @@ This is a Hip Hop trivia game. Test your Hip Hop knowledge.
 
 ## Application
 
-View Hip Hop trivia [here](https://sallen2.github.io/rps-multiplayer/)
+View Hip Hop trivia [here](https://sallen2.github.io/trivia-game/)
 
 ## Authors
 
