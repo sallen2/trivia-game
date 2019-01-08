@@ -1,4 +1,4 @@
-# Hip Hop trivia
+# :musical_note: Hip Hop trivia :musical_note:
 
 This is a Hip Hop trivia game. Test your Hip Hop knowledge.
 
