@@ -8,4 +8,4 @@ View Hip Hop trivia [here](https://sallen2.github.io/trivia-game/)
 
 ## Authors
 
-* **Stephan Allen** - [Portfolio](http://www.stephanallen.com/)
+**Stephan Allen** - [Portfolio](http://www.stephanallen.com/)
